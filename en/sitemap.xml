@@ -2,79 +2,133 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://bhyan.github.io/en/</loc>
     <lastmod>2024-04-01T09:43:13-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/"
+                href="https://bhyan.github.io/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://bhyan.github.io/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>https://bhyan.github.io/en/categories/</loc>
     <lastmod>2024-04-01T09:43:13-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/posts/"
+                href="https://bhyan.github.io/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/"
+                href="https://bhyan.github.io/en/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/about/</loc>
+    <loc>https://bhyan.github.io/en/tags/first/</loc>
+    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://bhyan.github.io/pt-br/tags/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bhyan.github.io/en/tags/first/"
+                />
+  </url><url>
+    <loc>https://bhyan.github.io/en/categories/first/</loc>
+    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://bhyan.github.io/pt-br/categories/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bhyan.github.io/en/categories/first/"
+                />
+  </url><url>
+    <loc>https://bhyan.github.io/en/posts/first-post-en/</loc>
+    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://bhyan.github.io/pt-br/posts/first-post-pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bhyan.github.io/en/posts/first-post-en/"
+                />
+  </url><url>
+    <loc>https://bhyan.github.io/en/posts/</loc>
+    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://bhyan.github.io/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bhyan.github.io/en/posts/"
+                />
+  </url><url>
+    <loc>https://bhyan.github.io/en/tags/</loc>
+    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://bhyan.github.io/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bhyan.github.io/en/tags/"
+                />
+  </url><url>
+    <loc>https://bhyan.github.io/en/categories/test/</loc>
+    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://bhyan.github.io/pt-br/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bhyan.github.io/en/categories/test/"
+                />
+  </url><url>
+    <loc>https://bhyan.github.io/en/about/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/about/"
+                href="https://bhyan.github.io/pt-br/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/about/"
+                href="https://bhyan.github.io/en/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://bhyan.github.io/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/categories/"
+                href="https://bhyan.github.io/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/series/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://bhyan.github.io/en/series/"
                 />
   </url>
 </urlset>

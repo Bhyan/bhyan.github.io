@@ -1,0 +1,13 @@
+{
+	"version": 3,
+	"file": "custom.css",
+	"sourceRoot": "/Users/bryanbrito/Documents/bhyan.github.io",
+	"sources": [
+		"assets/scss/custom.scss"
+	],
+	"sourcesContent": [
+		"figure.right-aligned {\n    img {\n        float: right;\n        width: 50%;\n        height: 50%;\n        margin: 0 0 2rem 2rem;\n    }\n}\n\nfigure.left-aligned {\n    img {\n        float: left;\n        width: 50%;\n        height: 50%;\n        margin: 0 2rem 2rem 0;\n    }\n}\n\nfigure.centered {\n    text-align: center;\n}\n\n@media only screen and (max-width: 768px) {\n    figure.right-aligned {\n        img {\n            float: none;\n            width: 100%;\n            height: 100%;\n            margin: 0;\n        }\n    }\n\n    figure.left-aligned {\n        img {\n            float: none;\n            width: 100%;\n            height: 100%;\n            margin: 0;\n        }\n    }\n}\n"
+	],
+	"names": [],
+	"mappings": "AAAA,AACI,MADE,AAAA,cAAc,CAChB,GAAG,CAAC;EACA,KAAK,EAAE,KAAK;EACZ,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,GAAG;EACX,MAAM,EAAE,aAAa,GACxB;;AAGL,AACI,MADE,AAAA,aAAa,CACf,GAAG,CAAC;EACA,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,GAAG;EACX,MAAM,EAAE,aAAa,GACxB;;AAGL,AAAA,MAAM,AAAA,SAAS,CAAC;EACZ,UAAU,EAAE,MAAM,GACrB;;AAED,MAAM,mCAEE;EADJ,AACI,MADE,AAAA,cAAc,CAChB,GAAG,CAAC;IACA,KAAK,EAAE,IAAI;IACX,KAAK,EAAE,IAAI;IACX,MAAM,EAAE,IAAI;IACZ,MAAM,EAAE,CAAC,GACZ;EAGL,AACI,MADE,AAAA,aAAa,CACf,GAAG,CAAC;IACA,KAAK,EAAE,IAAI;IACX,KAAK,EAAE,IAAI;IACX,MAAM,EAAE,IAAI;IACZ,MAAM,EAAE,CAAC,GACZ,EATA"
+}

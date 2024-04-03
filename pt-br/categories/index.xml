@@ -2,28 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Bryan Brito</title>
-    <link>http://localhost:1313/pt-br/categories/</link>
+    <link>https://bhyan.github.io/pt-br/categories/</link>
     <description>Recent content in Categories on Bryan Brito</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Mon, 01 Apr 2024 09:43:13 -0300</lastBuildDate><atom:link href="http://localhost:1313/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First</title>
-      <link>http://localhost:1313/pt-br/categories/first/</link>
-      <pubDate>Mon, 01 Apr 2024 09:43:13 -0300</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/categories/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/pt-br/categories/test/</link>
-      <pubDate>Mon, 01 Apr 2024 09:43:13 -0300</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/categories/test/</guid>
-      <description></description>
-    </item>
-    
+    <language>pt-br</language><atom:link href="https://bhyan.github.io/pt-br/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

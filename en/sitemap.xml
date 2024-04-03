@@ -2,79 +2,133 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bhyan.github.io/en/</loc>
+    <loc>http://localhost:1313/en/</loc>
     <lastmod>2024-04-01T09:43:13-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://bhyan.github.io/pt-br/"
+                href="http://localhost:1313/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bhyan.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
   </url><url>
-    <loc>https://bhyan.github.io/en/posts/</loc>
+    <loc>http://localhost:1313/en/categories/</loc>
     <lastmod>2024-04-01T09:43:13-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://bhyan.github.io/pt-br/posts/"
+                href="http://localhost:1313/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bhyan.github.io/en/posts/"
+                href="http://localhost:1313/en/categories/"
                 />
   </url><url>
-    <loc>https://bhyan.github.io/en/about/</loc>
+    <loc>http://localhost:1313/en/tags/first/</loc>
+    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/first/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/first/</loc>
+    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/categories/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/first/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/first-post-en/</loc>
+    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/posts/first-post-pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/first-post-en/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/categories/test/</loc>
+    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="http://localhost:1313/pt-br/categories/test/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/test/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/about/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://bhyan.github.io/pt-br/about/"
+                href="http://localhost:1313/pt-br/sobre/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bhyan.github.io/en/about/"
+                href="http://localhost:1313/en/about/"
                 />
   </url><url>
-    <loc>https://bhyan.github.io/en/categories/</loc>
+    <loc>http://localhost:1313/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://bhyan.github.io/pt-br/categories/"
+                href="http://localhost:1313/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://bhyan.github.io/en/categories/"
-                />
-  </url><url>
-    <loc>https://bhyan.github.io/en/series/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://bhyan.github.io/pt-br/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bhyan.github.io/en/series/"
-                />
-  </url><url>
-    <loc>https://bhyan.github.io/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://bhyan.github.io/pt-br/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bhyan.github.io/en/tags/"
+                href="http://localhost:1313/en/series/"
                 />
   </url>
 </urlset>

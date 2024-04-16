@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://bhyan.github.io/pt-br/</loc>
-    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
+    <lastmod>2024-04-16T17:15:03-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,17 +16,10 @@
                 />
   </url><url>
     <loc>https://bhyan.github.io/pt-br/posts/</loc>
-    <lastmod>2024-04-01T09:43:13-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://bhyan.github.io/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="https://bhyan.github.io/pt-br/posts/"
-                />
+    <lastmod>2024-04-16T17:15:03-03:00</lastmod>
+  </url><url>
+    <loc>https://bhyan.github.io/pt-br/posts/automacao-httparty/</loc>
+    <lastmod>2024-04-16T17:15:03-03:00</lastmod>
   </url><url>
     <loc>https://bhyan.github.io/pt-br/sobre/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bryan Brito</title>
-    <link>https://bhyan.github.io/pt-br/</link>
+    <link>http://localhost:1313/pt-br/</link>
     <description>Recent content on Bryan Brito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 16 Apr 2024 17:15:03 -0300</lastBuildDate><atom:link href="https://bhyan.github.io/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Apr 2024 17:15:03 -0300</lastBuildDate><atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Treinamento automação de teste com HTTParty</title>
-      <link>https://bhyan.github.io/pt-br/posts/automacao-httparty/</link>
+      <link>http://localhost:1313/pt-br/posts/automacao-httparty/</link>
       <pubDate>Tue, 16 Apr 2024 17:15:03 -0300</pubDate>
       
-      <guid>https://bhyan.github.io/pt-br/posts/automacao-httparty/</guid>
+      <guid>http://localhost:1313/pt-br/posts/automacao-httparty/</guid>
       <description>&lt;p&gt;Recentemente precisei automatizar os testes de uma API em um cliente que estava alocado, a stack dele era toda baseada em &lt;a href=&#34;https://www.ruby-lang.org/en/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ruby&lt;/a&gt;, então a equipe optou por utilizar as bibliotecas &lt;a href=&#34;https://rubygems.org/gems/httparty/versions/0.13.7?locale=en&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HTTParty&lt;/a&gt; e &lt;a href=&#34;https://rspec.info/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RSpec&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Ao finalizar o projeto ficou o conhecimento, então tive a ideia de socializa-lo, assim criei um treinamento que foi ministrado a aquipe interna da empresa onde atuo utilizando a mesma tecnologia utilizada no cliente, para o treinamento usamos a API testada foi a &lt;a href=&#34;https://serverest.dev/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ServeRest&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Aqui estou centralizando os slides e o código do treinamento. Se conseguir autorização para colocar no YouTube o vídeo do treinamento eu adiciono aqui posteriormente.&lt;/p&gt;
@@ -30,14 +30,14 @@
     
     <item>
       <title>Sobre Mim</title>
-      <link>https://bhyan.github.io/pt-br/sobre/</link>
+      <link>http://localhost:1313/pt-br/sobre/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://bhyan.github.io/pt-br/sobre/</guid>
+      <guid>http://localhost:1313/pt-br/sobre/</guid>
       <description>&lt;p&gt;Meu nome é Bryan Brito, sou nascido em São Paulo, porém moro em Natal, Rio Grande do Norte a mais de 20 anos. Sou formado em Bacharelado em Tecnologia da Informação pela &lt;a href=&#34;https://www.ufrn.br/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universidade Federal do Rio Grande do Norte&lt;/a&gt;. Atualmente trabalho como Engenheiro de Qualidade, focado em Automação de Teste com diversas ferramentas.&lt;/p&gt;
 &lt;p&gt;Tenho interesse em diferentes assuntos da Engenharia de Software, dentre eles: Qualidade, Padrões de Design, Segurança da Informação, Arquitetura, DevOps, etc. Gosto bastante de aprender e testes novas ferramentas e linguagens.&lt;/p&gt;
 &lt;p&gt;Recentemente comecei a ser mais participativo em comunidades sobre desenvolvimento de software e código livre, meetups e conferências. E claro, tenho contribuído para alguns projetos. No meu tempo livre eu costumo ler livros, aprender sobre café, assistir series (Star Trek) e filmes.&lt;/p&gt;
-&lt;p&gt;Espero que você consiga tirar algo de valor do conteúdo que compartilho aqui. Se quiser entrar em contato, deixe um comentário ou me procure no &lt;a href=&#34;https://www.linkedin.com/in/bhyan-brito/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linkedin&lt;/a&gt;. Você também pode conhecer meus projetos no &lt;a href=&#34;https://github.com/bhyan&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;, e não se esqueça de assinar o &lt;a href=&#34;https://bhyan.github.io/pt-br/posts/index.xml&#34; &gt;Feed RSS&lt;/a&gt; deste blog.&lt;/p&gt;
+&lt;p&gt;Espero que você consiga tirar algo de valor do conteúdo que compartilho aqui. Se quiser entrar em contato, deixe um comentário ou me procure no &lt;a href=&#34;https://www.linkedin.com/in/bhyan-brito/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linkedin&lt;/a&gt;. Você também pode conhecer meus projetos no &lt;a href=&#34;https://github.com/bhyan&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;, e não se esqueça de assinar o &lt;a href=&#34;http://localhost:1313/pt-br/posts/index.xml&#34; &gt;Feed RSS&lt;/a&gt; deste blog.&lt;/p&gt;
 </description>
     </item>
     

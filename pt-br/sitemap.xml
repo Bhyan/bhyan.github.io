@@ -2,85 +2,85 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pt-br/tags/api/</loc>
+    <loc>https://bhyan.github.io/pt-br/tags/api/</loc>
     <lastmod>2024-04-16T17:15:03-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/</loc>
-    <lastmod>2024-04-16T17:15:03-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="http://localhost:1313/pt-br/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/httparty/</loc>
-    <lastmod>2024-04-16T17:15:03-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/posts/</loc>
-    <lastmod>2024-04-16T17:15:03-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/ruby/</loc>
-    <lastmod>2024-04-16T17:15:03-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/</loc>
+    <loc>https://bhyan.github.io/pt-br/</loc>
     <lastmod>2024-04-16T17:15:03-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://bhyan.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/tags/"
+                href="https://bhyan.github.io/pt-br/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/teste/</loc>
+    <loc>https://bhyan.github.io/pt-br/tags/httparty/</loc>
     <lastmod>2024-04-16T17:15:03-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/posts/automacao-httparty/</loc>
+    <loc>https://bhyan.github.io/pt-br/posts/</loc>
     <lastmod>2024-04-16T17:15:03-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/sobre/</loc>
+    <loc>https://bhyan.github.io/pt-br/tags/ruby/</loc>
+    <lastmod>2024-04-16T17:15:03-03:00</lastmod>
+  </url><url>
+    <loc>https://bhyan.github.io/pt-br/tags/</loc>
+    <lastmod>2024-04-16T17:15:03-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://bhyan.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://bhyan.github.io/pt-br/tags/"
+                />
+  </url><url>
+    <loc>https://bhyan.github.io/pt-br/tags/teste/</loc>
+    <lastmod>2024-04-16T17:15:03-03:00</lastmod>
+  </url><url>
+    <loc>https://bhyan.github.io/pt-br/posts/automacao-httparty/</loc>
+    <lastmod>2024-04-16T17:15:03-03:00</lastmod>
+  </url><url>
+    <loc>https://bhyan.github.io/pt-br/sobre/</loc>
     <lastmod>2024-04-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/about/"
+                href="https://bhyan.github.io/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/sobre/"
+                href="https://bhyan.github.io/pt-br/sobre/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/categories/</loc>
+    <loc>https://bhyan.github.io/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://bhyan.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/categories/"
+                href="https://bhyan.github.io/pt-br/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/pt-br/series/</loc>
+    <loc>https://bhyan.github.io/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/series/"
+                href="https://bhyan.github.io/en/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://localhost:1313/pt-br/series/"
+                href="https://bhyan.github.io/pt-br/series/"
                 />
   </url>
 </urlset>

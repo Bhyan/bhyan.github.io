@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bryan Brito</title>
-    <link>https://bhyan.github.io/en/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content on Bryan Brito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://bhyan.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://bhyan.github.io/en/about/</link>
+      <link>http://localhost:1313/en/about/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://bhyan.github.io/en/about/</guid>
+      <guid>http://localhost:1313/en/about/</guid>
       <description>&lt;p&gt;My name is Bryan Brito, I was born in São Paulo, Brasil, although I live in Natal, Rio Grande do Norte more than 20 years. I have a Bachelor&amp;rsquo;s degree in Information Technology for &lt;a href=&#34;https://www.ufrn.br/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universidade Federal do Rio Grande do Norte&lt;/a&gt;. I currently work as a Quality Engineer, focused on Test Automation with several tools.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m interested in several Software Engineering topics, including: Quality, Design Patterns, Information Security, Architecture, DevOps, etc. I really enjoy learning and testing new tools and languages.&lt;/p&gt;
 &lt;p&gt;Recently I started to be more involved in software development and open source communities, meetups and conferences. And of course, I have contributed to some projects. In my free time I usually read books, learn about coffee, watch series (Star Trek) and movies.&lt;/p&gt;
-&lt;p&gt;I hope you can get something valuable out of the content I share here. If you want to get in touch, leave a comment or look for me on &lt;a href=&#34;https://www.linkedin.com/in/bhyan-brito/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linkedin&lt;/a&gt;. You can also check out my projects on &lt;a href=&#34;https://github.com/bhyan&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;, and don&amp;rsquo;t forget to subscribe to this blog&amp;rsquo;s &lt;a href=&#34;https://bhyan.github.io/pt-br/posts/index.xml&#34; &gt;RSS Feed&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I hope you can get something valuable out of the content I share here. If you want to get in touch, leave a comment or look for me on &lt;a href=&#34;https://www.linkedin.com/in/bhyan-brito/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linkedin&lt;/a&gt;. You can also check out my projects on &lt;a href=&#34;https://github.com/bhyan&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;, and don&amp;rsquo;t forget to subscribe to this blog&amp;rsquo;s &lt;a href=&#34;http://localhost:1313/pt-br/posts/index.xml&#34; &gt;RSS Feed&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

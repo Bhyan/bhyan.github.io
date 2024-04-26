@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bryan Brito</title>
-    <link>http://localhost:1313/pt-br/</link>
-    <description>Recent content on Bryan Brito</description>
+    <title>Teste on Bryan Brito</title>
+    <link>http://localhost:1313/pt-br/tags/teste/</link>
+    <description>Recent content in Teste on Bryan Brito</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 16 Apr 2024 17:15:03 -0300</lastBuildDate><atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Apr 2024 17:15:03 -0300</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/teste/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Treinamento automação de teste com HTTParty</title>
       <link>http://localhost:1313/pt-br/posts/automacao-httparty/</link>
@@ -25,19 +25,6 @@
 &lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://bhyan.github.io/pdf/teste_de_api_com_httparty.pdf&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Download PDF&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Bhyan/automacao-serverest&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Repositório do código&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sobre Mim</title>
-      <link>http://localhost:1313/pt-br/sobre/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/pt-br/sobre/</guid>
-      <description>&lt;p&gt;Meu nome é Bryan Brito, sou nascido em São Paulo, porém moro em Natal, Rio Grande do Norte a mais de 20 anos. Sou formado em Bacharelado em Tecnologia da Informação pela &lt;a href=&#34;https://www.ufrn.br/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Universidade Federal do Rio Grande do Norte&lt;/a&gt;. Atualmente trabalho como Engenheiro de Qualidade, focado em Automação de Teste com diversas ferramentas.&lt;/p&gt;
-&lt;p&gt;Tenho interesse em diferentes assuntos da Engenharia de Software, dentre eles: Qualidade, Padrões de Design, Segurança da Informação, Arquitetura, DevOps, etc. Gosto bastante de aprender e testes novas ferramentas e linguagens.&lt;/p&gt;
-&lt;p&gt;Recentemente comecei a ser mais participativo em comunidades sobre desenvolvimento de software e código livre, meetups e conferências. E claro, tenho contribuído para alguns projetos. No meu tempo livre eu costumo ler livros, aprender sobre café, assistir series (Star Trek) e filmes.&lt;/p&gt;
-&lt;p&gt;Espero que você consiga tirar algo de valor do conteúdo que compartilho aqui. Se quiser entrar em contato, deixe um comentário ou me procure no &lt;a href=&#34;https://www.linkedin.com/in/bhyan-brito/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Linkedin&lt;/a&gt;. Você também pode conhecer meus projetos no &lt;a href=&#34;https://github.com/bhyan&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;, e não se esqueça de assinar o &lt;a href=&#34;http://localhost:1313/pt-br/posts/index.xml&#34; &gt;Feed RSS&lt;/a&gt; deste blog.&lt;/p&gt;
 </description>
     </item>
     
